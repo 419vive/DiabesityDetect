@@ -60,5 +60,5 @@
 
 <h2>Contact</h2>
 
-<p>For any questions, please reach out to me at [insert your contact information here].</p>
+<p>For any questions, please reach out to me at 419vive@gmail.com.</p>
 
